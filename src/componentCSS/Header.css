@@ -1,0 +1,46 @@
+.nav-bg-black {
+    color: black;
+}
+
+.prime-Header {
+    height: 50px;
+}
+.prime-Header ul {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prime-title {
+    margin-right: 10rem;
+}
+
+.prime-title a{
+    color: azure;
+    font-family: cursive;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+}
+
+.prime-title a:hover{
+    color:rgb(255, 255, 255);
+    transform: scale(0.8);
+    transition: 0.8s;
+}
+
+.p-menu{
+    margin: 0 15px;
+}
+
+.p-menu a{
+    color: white;
+    text-transform: capitalize;
+    font-family: math;
+}
+
+.p-menu a:hover{
+    color:rgb(255, 255, 255);
+    transform: scale(0.8);
+    transition: 0.3s;
+}
